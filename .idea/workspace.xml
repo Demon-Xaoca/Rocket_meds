@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d23648d-474e-47a6-8fe6-78222140b4cb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Rocket_meds.html" beforeDir="false" afterPath="$PROJECT_DIR$/Rocket_meds.html" afterDir="false" />
-    </list>
+    <list default="true" id="0d23648d-474e-47a6-8fe6-78222140b4cb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1579471136947</updated>
       <workItem from="1579471138369" duration="3030000" />
-      <workItem from="1579551507336" duration="1997000" />
+      <workItem from="1579551507336" duration="2288000" />
     </task>
     <servers />
   </component>
