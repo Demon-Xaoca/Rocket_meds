@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d23648d-474e-47a6-8fe6-78222140b4cb" name="Default Changelist" comment="" />
+    <list default="true" id="0d23648d-474e-47a6-8fe6-78222140b4cb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Rocket_meds.html" beforeDir="false" afterPath="$PROJECT_DIR$/Rocket_meds.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +23,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WdEagDiMuWmskyxol5Fz32Wayn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -57,11 +63,22 @@
       <option name="presentableId" value="Default" />
       <updated>1579471136947</updated>
       <workItem from="1579471138369" duration="3030000" />
-      <workItem from="1579551507336" duration="1000000" />
+      <workItem from="1579551507336" duration="1664000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
