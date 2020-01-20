@@ -1,0 +1,81 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+   background-image: url('../images/bg.png');
+    background-position: center;
+    background-repeat: repeat-y;
+    background-size: contain;
+    padding-top: 12px;
+}
+header {
+    background-image: url('../images/head.png');
+    background-repeat: repeat-x;
+    padding: 12px 0 13px;
+    border-bottom: 12px solid #f8fdf2;
+    margin-bottom: 50px;
+}
+body, header {
+    background-size: contain;
+}
+.Logo {
+    max-width: 960px;
+}
+div, section {
+    margin: auto;
+    max-width: 975px;
+}
+section {
+    margin-bottom: 15px;
+}
+h1 {
+    font-size: 36px;
+    color: #ebc738;
+    margin-bottom: 14px;
+}
+article {
+    margin-top: 15px;
+    background-color: #ffffff;
+    padding: 21px 34px 40px 23px;
+    font-size: 16px;
+    color: #474747;
+}
+p {
+    margin-bottom: 31px;
+}
+.no_margin {
+    margin-bottom: 0;
+}
+.center_rocket {
+    max-width: 262px;
+    margin-bottom: 19px;
+}
+img[src="images/Rocket.png"] {
+    float: right;
+}
+.center_rocket:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+.Circles {
+    padding: 0 7px 0 98px;
+
+}
+img[src="images/img.png"] {
+    width: 100%;
+    display:block;
+}
+footer {
+    padding: 103px 0 86px;
+    background-color: #323232;
+    border-top: #bbdb8c solid 4px;
+}
+nav {
+    text-align: center;
+}
+nav a {
+    margin:0 13px 0;
+}
